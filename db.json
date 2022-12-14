@@ -13,8 +13,8 @@
     { "createdAt": "2022/12/14", "id": 1, "title": "Title 1", "content": "I spend a lot of time walking around in the woods and talking to trees, and squirrels, and little rabbits and stuff. You can create the world you want to see and be a part of. You have that power. Look at them little rascals. Nothing's gonna make your husband or wife madder than coming home and having a snow-covered dinner. Get tough with it, get strong.", "postId": 1, "photo": "https://via.placeholder.com/1920" },
     { "createdAt": "2022/12/14", "id": 2, "title": "Title 2", "content": "If you hypnotize it, it will go away. Isn't that fantastic that you can create an almighty tree that fast? Now we don't want him to get lonely, so we'll give him a little friend. Just think about these things in your mind and drop em' on canvas.","postId": 2, "photo": "https://via.placeholder.com/1920" },
     { "createdAt": "2022/12/14", "id": 3, "title": "Title 3", "content": "Put it in, leave it alone. Isn't that fantastic that you can create an almighty tree that fast? You create the dream - then you bring it into your world. If you do too much it's going to lose its effectiveness.","postId": 3, "photo": "https://via.placeholder.com/1920" }
-  ]
- "savings": {
+  ],
+  "savings": {
     { "id": 1, "memberName": "Amiel Gaudia", "productName": "Digi Savers", "amount": 100, "createdAt": "2022/12/14" },
     { "id": 1, "memberName": "Janine Bagtila", "productName": "GSave", "amount": 200, "createdAt": "2022/10/14" },
     { "id": 1, "memberName": "George Libatique", "productName": "Wealth Builders", "amount": 300, "createdAt": "2022/08/14" }
